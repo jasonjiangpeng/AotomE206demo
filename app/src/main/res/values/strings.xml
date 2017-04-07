@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">颜儒</string>
+    <string name="notice">提示</string>
+    <string name="connecting_device">设备未连接，是否现在连接设备？</string>
+    <string name="connecting">现在连接</string>
+    <string name="asss">com.jasom.cxxxxc</string>
+</resources>
